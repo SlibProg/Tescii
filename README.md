@@ -5,6 +5,7 @@ An open-source text to ascii art convertor made in rust.
 ### 💻 Techs:
 
 **Language:** Rust
+
 **Libs:** Figlet-Rs and ClearScreen
 
 ### 📜 License:
