@@ -1,3 +1,5 @@
+![gif](tescii.gif)
+
 # TESCII
 
 An open-source text to ascii art convertor made in rust. 
