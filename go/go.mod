@@ -1,4 +1,4 @@
-module github.com/SlibProg/tescii/go
+module github.com/SlibProg/Tescii/go
 
 go 1.26.6
 

@@ -11,5 +11,5 @@ An open-source text to ascii art convertor made in go.
 
 Dependencies: Go
 ```
-go install github.com/SlibProg/tescii/go@latest
+go install github.com/SlibProg/Tescii/go@latest
 ```
