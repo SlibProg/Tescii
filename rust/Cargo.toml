@@ -1,5 +1,10 @@
 [package]
 name = "tescii"
+description = "A simple text to ascii convertor made in rust."
+readme = "README.md"
+repository = "https://github.com/SlibProg/tescii/rust"
+license = "MIT"
+keywords = ["ascii_art"]
 version = "0.1.0"
 edition = "2024"
 
