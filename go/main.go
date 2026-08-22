@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"strings"
 	"time"
-
 	"github.com/inancgumus/screen"
 	"moul.io/banner"
 )
