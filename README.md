@@ -1,9 +1,16 @@
 # TESCII
 
-An open-source text to ascii art convertor made in rust and have an version in go. 
+An open-source text to ascii art convertor made in go. 
 
 ### Techs:
 
-**Languages:** Rust and Go
-**Libs (Rust):** Figlet-Rs and ClearScreen
-**Libs (Go):** Banner and screen
+**Language:** Go
+
+**Libs:** Banner and screen
+
+### Installation
+
+Dependencies: Go
+```
+go install github.com/SlibProg/tescii/
+```
